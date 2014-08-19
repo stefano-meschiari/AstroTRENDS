@@ -228,7 +228,7 @@ var ASTRO_TRENDS_UI = (function() {
         // Read keywords
         $.ajax({
             dataType:"json",
-            url: "keywords.json",
+            url: "data/keywords.json",
             settings: {async: false},
             success: function(data) {
                 DB.setDatabase(data);

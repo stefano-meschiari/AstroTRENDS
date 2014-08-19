@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>AstroMINES - AstroTRENDS</title>
+    <title>AstroTRENDS</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="../libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../libs/select2/select2.css" rel="stylesheet">
-    <link href="../trends.css" rel="stylesheet">
+    <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="libs/select2/select2.css" rel="stylesheet">
+    <link href="css/trends.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -159,12 +159,12 @@
     </div>
 
     <script src="https://code.jquery.com/jquery.js" type="text/javascript"></script>
-    <script src="../libs/underscore/underscore-min.js" type="text/javascript"></script>
-    <script src="../libs/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="../libs/highcharts/js/highcharts.js" type="text/javascript"></script>
-    <script src="../libs/highcharts/js/modules/exporting.js" type="text/javascript"></script>
-    <script src="../libs/select2/select2.min.js" type="text/javascript"></script>
-    <script src="keywords.js?v=1.4" type="text/javascript"></script>
+    <script src="libs/underscore/underscore-min.js" type="text/javascript"></script>
+    <script src="libs/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="libs/highcharts/js/highcharts.js" type="text/javascript"></script>
+    <script src="libs/highcharts/js/modules/exporting.js" type="text/javascript"></script>
+    <script src="libs/select2/select2.min.js" type="text/javascript"></script>
+    <script src="js/keywords.full.js?v=1.4" type="text/javascript"></script>
 
     
   </body>
