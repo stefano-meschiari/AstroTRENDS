@@ -1,0 +1,124 @@
+Exoplanet OR "Extrasolar planet"
+Exoplanet
+Extrasolar planet
+Extragalactic
+Globular Clusters
+Black Hole
+Dark Matter
+CMB
+Monte Carlo
+Machine Learning
+Kepler
+Nonlinear
+N-Body
+Cosmology
+Dark Energy
+SPH
+Hydrodynamics
+Simulation
+Exomoon
+Habitable planet
+Radial Velocity
+Transits
+Microlensing
+Direct imaging
+"Young Stellar Object" OR YSO
+Transitional disk
+Circumstellar disk
+Protostar
+Circumbinary disk
+Accretion disk
+T Tauri star
+FU Orionis
+Supernova
+Nova
+Chaos
+Gravitational Lensing
+Gravitational Waves
+magnetic field
+spectroscopy
+interferometry
+photometry
+telescopes
+Database
+Citizen Science
+astrometry
+eclipsing binary
+spectroscopic binary
+symbiotic binary
+visual binary
+brown dwarf
+gamma-ray burst
+horizontal branch
+neutron star
+white dwarf
+ISM
+Cosmic Rays
+AGN
+Quasars
+Seyfert
+Inflation
+Nucleosynthesis
+Gamma
+Gamma-ray burst
+Infrared
+Radio
+Submillimiter
+Ultraviolet
+X-rays
+HATNet
+XO
+WASP
+KELT
+MEarth
+HARPS
+APF
+HIRES
+EPOXI
+Hubble
+Spitzer
+Chandra
+Swift
+Einstein
+COROT
+Planck
+WMAP
+XMM
+Subaru
+VLT
+Gemini
+AAT
+TNG
+CFHT
+Herschel
+Keck
+IGM OR "Intergalactic Medium"
+LSS OR "Large-scale structure"
+Pulsar
+Star formation
+"Magellanic Clouds" OR LMC OR SMC
+Molecular gas
+LISA
+LIGO
+Pulsar Timing Array
+Tide
+Tidal Disruption
+Polarimetry
+Polarimetry OR Polarimeter
+Proper Motions
+Astronomical Models
+Emission Spectra
+Line Spectra
+Abundance
+Stellar Evolution
+Light curve
+Shock wave
+Redshift
+Astrochemistry
+SDSS OR Sloan
+Gaia
+Galactic Archaeology
+"Stellar Stream" OR "Tidal Tail"
+Weasel words: Could OR Possibly OR Might OR Maybe OR Perhaps OR Quite OR Fairly OR Various OR Very OR Several OR Exceedingly OR Vastly OR Interestingly OR Surprisingly OR Remarkably OR Clearly OR Significantly OR Substantially OR Relatively OR Completely OR Extremely
+Non-weasel words: Fast OR Slow OR Large OR Small OR Before OR After OR High OR Low OR Many OR Few OR More OR Less OR Inside OR Outside OR Recently OR Just
+*
